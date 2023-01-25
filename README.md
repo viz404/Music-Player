@@ -1,4 +1,4 @@
-# 1mg_Clone
+# Spotify Web App
 
 # Team Details:-
         1. Vishal Dinesh.
