@@ -1,4 +1,4 @@
-# Online Music Player
+# Music Player
 
 # Team Details:-
         1. Vishal Dinesh.
